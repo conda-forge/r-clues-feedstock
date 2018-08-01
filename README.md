@@ -14,14 +14,16 @@ Summary: We developed the clues R package to provide functions  for automaticall
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/r-clues-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/r-clues-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/r-clues-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/r-clues-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/r-clues-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/r-clues-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-clues-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-clues-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/r-clues-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-clues-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-clues-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-clues-feedstock/branch/master)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/r-clues/badges/version.svg)](https://anaconda.org/conda-forge/r-clues)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/r-clues/badges/downloads.svg)](https://anaconda.org/conda-forge/r-clues)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-r--clues-green.svg)](https://anaconda.org/conda-forge/r-clues) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/r-clues.svg)](https://anaconda.org/conda-forge/r-clues) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/r-clues.svg)](https://anaconda.org/conda-forge/r-clues) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/r-clues.svg)](https://anaconda.org/conda-forge/r-clues) |
 
 Installing r-clues
 ==================
