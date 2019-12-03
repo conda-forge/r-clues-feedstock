@@ -1,4 +1,4 @@
-{% set version = "0.6.1" %}
+{% set version = "0.6.2.1" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,7 +10,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/clues_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/clues/clues_{{ version }}.tar.gz
-  sha256: f23d6fddaf6796e18441fab754e4a003d162f34dea62d08f1faccad65df2f8bc
+  sha256: 83a35c4c94512c9aa6495eb0edebc36a2fe8a0d3927a4dd32965347c734ffe06
 
 build:
   merge_build_host: True  # [win]
