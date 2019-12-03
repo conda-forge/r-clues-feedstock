@@ -178,7 +178,6 @@ Feedstock Maintainers
 
 * [@ArneKr](https://github.com/ArneKr/)
 * [@FrodePedersen](https://github.com/FrodePedersen/)
-* [@Johanneskoester](https://github.com/Johanneskoester/)
 * [@MathiasHaudgaard](https://github.com/MathiasHaudgaard/)
 * [@conda-forge/r](https://github.com/conda-forge/r/)
 
